@@ -162,8 +162,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 3.0823112786384677,
-          "pitch": 0.3370195290525313,
+          "yaw": 3.03284592467565,
+          "pitch": 0.30452160514551707,
           "rotation": 0,
           "target": "0-render1"
         },
@@ -180,7 +180,7 @@ var APP_DATA = {
   "name": "justatestPANO",
   "settings": {
     "mouseViewMode": "drag",
-    "autorotateEnabled": true,
+    "autorotateEnabled": false,
     "fullscreenButton": true,
     "viewControlButtons": false
   }
